@@ -1,6 +1,6 @@
 # Site Currículo
 
-Site criado para ensinar o uso do node + express + hospedagem no Heroku
+Site criado para ensinar o uso do node + express + hospedagem no Cyclic
 
 ## Instalação
 
